@@ -121,3 +121,4 @@ notebooks/JP_Morgan_Nat_Gas.ipynb
 ## 📌 Author
 
 Prepared as part of a **JP Morgan Quant / Data Analytics Program** submission.
+Written by **Jagadamba** task complete
